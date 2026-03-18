@@ -269,7 +269,7 @@ export function Footer() {
         <li><a href="#features">{t.navFeatures}</a></li>
         <li><a href="#pricing">{t.navPricing}</a></li>
         <li><a href="#contact">{t.navContact}</a></li>
-        <li><a href="#">{t.footerPrivacy}</a></li>
+        <li><a href="https://valquiriamx.github.io/privacy-policy-checkok/" target="_blank" rel="noopener noreferrer">{t.footerPrivacy}</a></li>
       </ul>
       <p className="footer-copy">© 2025 CheckOK. {t.footerMade}</p>
     </footer>
