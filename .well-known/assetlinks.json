@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.checkok.app",
+    "sha256_cert_fingerprints": [
+      "89:58:FA:0C:AA:76:36:AE:92:2C:A7:AF:97:40:BC:B2:3B:EB:6D:0D:5D:BF:42:1B:4D:6E:25:75:C3:08:04:AE"
+    ]
+  }
+}]
